@@ -1,0 +1,52 @@
+[
+  {
+    "skill": "Python",
+    "level": "advanced",
+    "color": "#3B82F6"
+  },
+  {
+    "skill": "Machine Learning",
+    "level": "advanced",
+    "color": "#8B5CF6"
+  },
+  {
+    "skill": "SQL",
+    "level": "advanced",
+    "color": "#F59E0B"
+  },
+  {
+    "skill": "Power BI",
+    "level": "advanced",
+    "color": "#F3A316"
+  },
+  {
+    "skill": "React",
+    "level": "intermediate",
+    "color": "#60DAFB"
+  },
+  {
+    "skill": "Angular",
+    "level": "intermediate",
+    "color": "#DD0031"
+  },
+  {
+    "skill": "AWS",
+    "level": "intermediate",
+    "color": "#FF9900"
+  },
+  {
+    "skill": "TypeScript",
+    "level": "intermediate",
+    "color": "#3178C6"
+  },
+  {
+    "skill": "Java",
+    "level": "intermediate",
+    "color": "#E84F33"
+  },
+  {
+    "skill": "Git",
+    "level": "advanced",
+    "color": "#C3DCAF"
+  }
+]
