@@ -1,0 +1,21 @@
+{
+  "name": "split-n-bill",
+  "version": "1.0.0",
+  "public": true,
+  "scripts": {
+    "start": "expo start --tunnel",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "^54.0.1",
+    "expo-status-bar": "^55.0.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-native": "^0.81.4",
+    "react-native-web": "^0.21.0"
+  },
+  "private": true
+}
